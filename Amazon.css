@@ -1,0 +1,73 @@
+.current {
+    background-color: #E3C66F;
+    margin-bottom: 25px;
+}
+
+h1 {
+    margin-right: 200px;
+}
+
+form {
+    margin: 80px;
+    text-align: center;
+    border-color: black;
+    border-style: solid;
+    border-collapse: separate;
+    border-width: thick;
+}
+
+.name {
+    margin-right: 100px;
+    margin-bottom: 50px;
+}
+
+.secname {
+    margin-top: 50px;
+    margin-right: 255px;
+}
+
+button {
+    width: 25%;
+}
+
+.aid {
+    margin-left: 210px;
+}
+
+.info {
+    margin-right: 245px;
+}
+
+input {
+    width: 25%
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    display: inline;
+    text-align: center;
+    margin: 5px;
+    margin-left: 5;
+}
+
+h5 {
+    margin-bottom: 15px;
+}
+
+.help {
+    margin-left: 200px;
+}
+
+footer {
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+}
+
+i {
+    text-size-adjust: 5px;
+    text-align: center;
+}
